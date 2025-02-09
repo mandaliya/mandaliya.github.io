@@ -2,7 +2,12 @@
     padding-top: 50px;
     text-align: center
     }
-  
+    .site-avatar {
+        float: none;
+    }
+    .site-info {
+        float: none;
+    }
     .site-name {
       text-align: center
     }
